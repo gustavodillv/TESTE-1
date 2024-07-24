@@ -2420,7 +2420,7 @@ GameObject:
   - component: {fileID: 187651577}
   - component: {fileID: 187651576}
   m_Layer: 1
-  m_Name: Ocena
+  m_Name: Ocean
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
